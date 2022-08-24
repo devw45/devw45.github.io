@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="styles.css">     
   </head>
   
   <body>
-    <h1 class="ISP">ISP</h1>
+    
+    
+    <h1 class="Fingerprint">About Me</h1>
 
     <div class="nav">
-    <button onclick="document.location='index.html'">About Me</button>
+    <button class="butIndex" onclick="document.location='index.html'">About Me</button>
     <button class="butClasses" onclick="document.location='classes.html'">Classes</button><!-- might not be working -->
     <button class="butISP" onclick="document.location='ISP.html'">ISP</button>
-    <button class="butFingerprint" onclick="document.location='fingerprint.html'">Fingerprint</button>
-    <button class="butCites" onclick="document.location='cites.html'">Cites</button>
     </div>
 
     <div class="text">
-    <p><span class="beginning">About The ISP:</span> <span class="description"> At the end of last year, for me Computer Science I, we were tasked to make a game with two other people. My group decided to make a game based on tanks, a multiplayer game where players try destroying their opponents. In out game players were in outerspace and were controlling space ships through either WASD or the mouse. There were multiple maps like one had a bakchole that would grow as time went on or another would freeze the ships due to the extreme tempetures the ships were in. This project was one of the hardest I have had to complete ever but now looking back it was definitely worth the time that our group put into this ISP</span></p>
+      <ul class="essay">
+	<li>Why do we use HTTPS?</li>
+      </ul>
     </div>
   </body>
 </html>
