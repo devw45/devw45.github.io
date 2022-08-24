@@ -1,0 +1,41 @@
+
+body {
+    background-color: lightblue;
+    margin:0px
+}
+
+.menu {    
+    margin-left:10px;
+    margin-bottom:20px;
+    font-size:100%;
+    font-family:Georgia;
+    background-color:19AAE3;
+    text-align:table;
+}
+
+.AboutMe {
+    font-size:150px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    background-color: #1959e3;
+    font-family:Georgia;
+    text-align: center;
+}
+
+.beginning {
+    font-weight: 700;
+    font-size:200%;
+    font-family:Comic Sans Ms
+}
+
+.description {
+    font-size:150%;
+    font-family:Arial;
+}
+
+.newline {
+    margin-left:10px
+    font-size:150%;
+    font-family:Arial;
+    font-weight: 700;
+}

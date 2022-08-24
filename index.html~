@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">     
+  </head>
+  
+  <body>
+    
+    
+    <h1 class="AboutMe">About Me</h1>
+
+    <div class="nav">
+    <button onclick="document.location='index.html'">About Me</button>
+    <button onclick="document.location='classes.html'">Classes</button><!-- might not be working -->
+    <button onclick="document.location='ISP.html'">ISP</button>
+    </div>
+
+    <div class="text">
+    <p><span class="beginning">About Me:</span> <span class="description"> Hi, I'm Devin Wingfield and welcome to my Digital Portfolio. Some stuff about me is that I am currently working on college applications, better my coding skills with
+	this Portfolio, and looking forward to the experiences that are to come this year. This Portfolio will be important later as companies look back on my work and my progress throughout the year. For me that is the most important part about this Portfolio because as I further my career in Software Engineering, Interships will be significant when trying to get hired by companies.
+    </span></p>
+    </div>
+  </body>
+</html>
+<!--
+  how to make an image
+  <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+  wget (source) - download into directory
+
+  <p style="color:red"> - changes color of print
+
+  <h1 style="font-size:60px;">Heading 1</h1> - changes font size
+
+  style="background-color;" - changes backgound color
+
+  style="font-fmily:(font);" - changes the font
+
+  style="font-size:#%;" - changes font size
+
+  style="text-align:center;" - changes position
+
+  <b></b> - bold
+
+  <i></i> - italics
+
+  <small></small> - shrinkens the text
+
+  <mark></mark> - highlights
+
+  <del></del> - shlashes through
+
+  <ins></ins> - underlines
+
+  <sub></sub> - subscript
+  <sup></sup> - superscript
+
+  <blockquote cite="(cite)">
+    quote
+  </blockqoute>
+
+  <q></q> - quotations
+
+  <abbr title="(title)">(abbriviation)</abbr>
+
+  <bdo dir="rtl"></bdo> - puts text backwords
+
+  https://www.w3schools.com/colors/colors_names.asp - color names
+
+  <link rel="mainsheet" href="main.css">
+  -->

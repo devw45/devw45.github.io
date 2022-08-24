@@ -1,0 +1,87 @@
+
+body {
+    
+    background-image: url('Stars.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin:0px;
+}
+
+.menu {    
+    margin-left:10px;
+    margin-bottom:20px;
+    text-align:inline;
+}
+
+.nav {
+    text-align: center;
+    background-color: yellow;
+    margin:0px
+    length: 20px;
+}
+
+.butISP, .butClasses {
+    margin-left: 50px;
+}
+.text {
+    color:yellow;
+}
+
+.AboutMe {
+    font-size:150px;
+    font-family: Georgia;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    background-image: url('Sun.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 120%;
+}
+
+.Classes {
+    font-size:150px;
+    font-family:Georgia;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-image: url('Sun.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.ISP {
+    font-size:150px;
+    font-family: Georgia;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-image: url('Sun.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.beginning {
+    font-weight: 700;
+    font-size:200%;
+    font-family:Arial;
+    margin-bottom:0px;
+    text-align: center;
+}
+
+.description {
+    font-size:150%;
+    font-family:Courier New;
+    font-weight: 700;
+    margin-left:100px;
+}
+
+.newline {
+    margin-left:10px
+    font-size:150%;
+    font-family:Arial;
+    font-weight: 700;
+}
