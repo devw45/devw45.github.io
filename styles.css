@@ -1,4 +1,3 @@
-
 body {
     background-image: url('Stars.png');
     background-repeat: no-repeat;
@@ -8,19 +7,73 @@ body {
 }
 
 .nav {
-    text-align: ;
-    background-color: #313632;
+    text-align: center;
+    background-color:none;
     margin:0px;
+    border-radius:8x;
 }
 
-.butISP, .butClasses, .butFingerprint, .butCites {
-    margin-left: 50px;
+.butIndex, .butISP, .butClasses, .butFingerprint, .butCites, .butAI {
+    margin-top:5px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    background-color:#ffffff;
+    border:none;
+    text-decoration:none;
+    display: inline-block;
+    border-radius:8px;
+    padding: 5px 10px
+}
+
+.butIndex:hover, .butISP:hover, .butClasses:hover, .butFingerprint:hover, .butCites:hover, .butAI:hover {
+    background-color:yellow;
+    color:black;
 }
 
 .text {
     color:yellow;
     text-align:Center;
+    font-size: 150%;
     margin-right: 20px;
+    margin-top:20px;
+    width: 60vw;
+    left: 20vw;
+    position: absolute;
+    border-width: 1vw;
+    border-radius: 20px;
+    background-color: #ffffff10;
+}
+
+.cites {
+    color:yellow;
+    text-align:Center;
+    font-size:130%;
+    margin-right: 20px;
+    width: 75vw;
+    margin-top: 20px;
+    left: 10vw;
+    position: absolute;
+    border-width: 1vw;
+    border-radius: 20px;
+    background-color: #ffffff10;
+}
+
+.essay {
+    font-size:100%;
+    font-family: Courier New;
+    font-weight:500;
+}
+
+td, a {
+    text-decoration:none;
+    color: white;
+    font-style: unset;
+    margin:5px;
+}
+
+.header {
+    color:yellow;
+    font-weight: 700;
 }
 
 .AboutMe {
@@ -32,6 +85,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 120%;
+    border-radius:12px
 }
 
 .Classes {
@@ -55,6 +109,13 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+
+.github {
+    bottom:2vh;
+    position:absolute;
+    left:45vw;
+}
+
 
 .beginning {
     font-weight: 700;
