@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Digital Portfolio</title> 
+    <link rel="stylesheet" href="../CSS/styles.css">     
+  </head>
+  
+  <body>
+    
+    
+    <h1 class="AboutMe">Finger Print</h1>
+
+    <div class="nav">
+      <button class="butIndex" onclick="document.location='./../htmls/index.html'">About Me</button>
+      <button class="butClasses" onclick="document.location='./../htmls/classes.html'">Classes</button><!-- might not be working -->
+      <button class="butISP" onclick="document.location='./../htmls/ISP.html'">ISP</button>
+      <button class="butFingerprint" onclick="document.location='fingerprint.html'">Fingerprint</button>
+      <button class="butCites" onclick="document.location='./../htmls/cites.html'">Cites</button>
+      <button class="butAI" onclick="document.location='AISentience.html'">AI Sentience</button>
+    </div>
+
+    <h2>HTTPS</h2>
+    <p class="essay">
+      Https is used on lamost ever website, but why do we use HTTPS? lefts first start with what HTTPS is. HTTPS stands for Hypertext transfer protocol secure also known as a
+      secure version of HTTP. This is useful when someon logs into websites with sensitive information like bank accounts or other senstive info. If a websites are not using
+      HTTPS then unwanted asvertisements can pop up or hackers can steal your information. HTTPS also encrypts communications between two entities so information is not taken.
+      A way to secure communication is by using an HTTPS proxy. A HTTPS proxy is a call and repsonse between a user and a server that can be used to secure web browsers. 
+    </p>
+
+    <h2>MITM</h2>
+    <p>
+      Unfortunately, attacks, like MITM, occur often. MITM stancs man-in-the-middle attack where a hacker gets inbetween a user's and website's communications while pretending to be
+      one or the other. Durring this attack, the hacker acquires information of the user and uses it later for identity theft or other activites.
+    </p>
+
+    <h2>Hashing</h2>
+    <p>
+      Hashing is the process of transforming a key, or a string of chracaters, into abother value. This usually allows for a shorter, fixed-length, key to make it easier to use the
+      original string. Hashing assigns values to data sothe operator can easily find said data which is why Hashing is so useful and efficient.
+    </p>
+    <!-- image on doc -->
+    
+    <h2>Certificate Authority</h2>
+    <p>
+      "Certification Authority is a company or organization tha acts to validate the identities of entities and bind them to cryptogragphic keys"(SSL.com) by using digital
+      certificates.
+    </p>
+
+    <h2>SSL interception</h2>
+    <p>
+      SSL interception uses an algorithm that specifies what traffic to stop, block, or allow through. This cannot be prevented however it can be detected. One way to detect an
+      SSL interception is using certification authroity.
+    </p>
+
+    <h2>false positive/negative</h2>
+    <p>
+      A false postive is when the system detects a problem, or an anomaly, but turns out to be nothing. A false negative is when the system is unaware of a problem while there is
+      a problem currently happening in the system.
+    </p>
+
+    <h2>Do organizations have the right to eavesdrop?</h2>
+    Organizations have the right to eavesdrop on our communications but not all communications. Organizations, like Allen ISD, are given the right to look at a user's screen due
+    the possiblity of dangers like hacking or acquiring information that could be used to alter the grades of a student. However, Allen ISD cannot look at everything as personal
+    information like passwords to other organizations not related to Allen ISD cannot no be looked at by Allen ISD.
+  </body>
+</html>
