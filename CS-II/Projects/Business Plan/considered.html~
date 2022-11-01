@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Digital Portfolio</title>
+    <link rel="stylesheet" href="./../../CSS/styles.css">     
+  </head>
+  
+  <body>
+    <!--duolingo for coding-->
+    
+    <h1 class="pageName">Considered ISP's</h1>
+
+    <div class="nav">
+      <button class="butIndex" onclick="document.location='./../../htmls/index.html'">About Me</button>
+      <button class="butClasses" onclick="document.location='./../../htmls/classes.html'">Classes</button>
+      <button class="butISP" onclick="document.location='./../../htmls/ISP.html'">ISP</button>
+      <button class="butFingerprint" onclick="document.location='./../../Essays/fingerprint.html'">Fingerprint</button>
+      <button class="butCites" onclick="document.location='./../../htmls/cites.html'">Cites</button>
+      <button class="butAI" onclick="document.location='./../../Essays/AI%20Sentience.html'">AI Sentience</button>
+      <button class="butAI" onclick="document.location='./../Optimal%20Sort.html'">Optimal sorting</button>
+      <button class="butAI" onclick="document.location='./index.html'">Business Plan</button>
+    </div>
+    
+    <h2 class="ConsideredName">Gautam-Arayan:Low-Frequency Trading AI</h2>
+    <p class="ExplinationConsidered">
+      This Low-Frequency Trading AI is very intriguing in that it offers the user data that could be used to invest in stocks based on the sentiment of other users in twitter, google AI, and r/wallstreetbets. I think this could be a very lucrative business plan because of the amount of demand for tips on stock investment are. However, Stocks can be unpredictable which worries but my main worry is a thrid of your data is based on a very sketchy website that is filled with people that give false information and is notorious for making people lose vast amounts of money regularly. This is a very creative idea but I chose to deny this propsal because of the crude data given to the AI to analyze.
+    </p>
+
+    <h2 class="ConsideredName">Melanie-lopez: Restaurant picker</h2>
+    <p class="ExplinationConsidered">
+     The Restaurant Picker is a very creative idea that could save time for friend groups and/or couples when they are unable to decide which restaurant to eat at. However, I believe that this is a similar idea to google or uber but has less of a unique aspect to it. In that it does the same task as looking up a restaurant at random in the near by area. This is a really good idea for an ISP and should be furhter persued to make it more unique. I choose to deny working on this project because of these reasons but this ISP could be turned into a great idea with some idea making.
+    </p>
+
+    <h2 class="ConsideredName">Neerja-Gogate:Changing Languages</h2>
+    <p class="ExplinationConsidered">
+      The idea to create a program that can convert one language to another is a creative idea that significantly reduces the amount of time a programmer might take to convert one language to another. I have personally experienced the difficulty that changing languages poses so this idea really intrigues me. Although, the problem arises on how you might convert languages since you need to specify certain phrases of code for the algorithm to recognize for millions of different phrases in multiple different language. If this algorithm can be completed and work correctly I would love to work on this project, but I do not believe this could work and therefore deny working on this project.
+    </p>
+
+    <h2 class="ConsideredName">Pranav-Krishnan:ShelterSafe</h2>
+    <p class="ExplinationConsidered">
+      ShelterSafe is a good idea for those who experience natural disasters regularly so people have a greater chance of survival. However, I see two problems with this. The construction of houses/ apartments have become more and more specific to region of the world and are therefore prepare, to an extent, for natural disaster that occur in their area. The second problem I see is that climate change doesn’t exist. All the information about the polar ice caps melting and the world slowly heating up are completely false. For these reasons I have chosen to not work on this ISP.
+    </p>
+
+    <h2 class="ConsideredName">Oliver-Hankins:Facial Recognition</h2>
+    <p class="ExplinationConsidered">
+      ShelterSafe is a good idea for those who experience natural disasters regularly so people have a greater chance of survival. However, I see two problems with this. The construction of houses/ apartments have become more and more specific to region of the world and are therefore prepare, to an extent, for natural disaster that occur in their area. The second problem I see is that climate change doesn’t exist. All the information about the polar ice caps melting and the world slowly heating up are completely false. For these reasons I have chosen to not work on this ISP.
+    </p>
+
+    <h2 class="ConsideredName">Timothy-Anderson:P.A.T.H.</h2>
+    <p class="ExplinationConsidered">
+      PATH is an interesting idea that it could control the stop lights when the busses are approaching the intersection and would definitely achieve your goal. Though a few problems arise if we control the stop lights through an algorithm. Say if busses are traveling back and forth then during class time the buss travels back, would the stop light still turn green even though there are no students on the bus? There will also be those people that believe that this program could be hacked so the hacker will be able to create hajor crashes by turning each light green. For theses reasons i choose not to work on this ISP but I think with some intuitive thinking that this program can become a very successful program.
+    </p>
+
+    <h2 class="ConsideredName">Aidan-Valva:Media Algorithm</h2>
+    <p class="ExplinationConsidered">
+      Your algorithm seems like a great idea to create as an ISP and could be a learning opportunity for anyone wo chooses to work with you. However, I do not want to work on this ISP because of your spelling in your description of your ISP. Just cause of that I am choosing not to work on your ISP and not the fact that this algorithm has already been created on multiple different applications. For these reasons I choose not to work on this ISP.
+    </p>
+
+    <h2 class="ConsideredName">David-Ortega:Therapy Session</h2>
+    <p class="ExplinationConsidered">
+      I believe that this app could help a lot of people if they are suffering from depression, anxiety, or anything else that might be affecting the user. I think if you do create an actual fun and interactive “vide” that you described of doing. Though I do see when creating this environment that it can backfire as people may not lie the environment they are being put in and are expected to express there deepest fears. Which also brings up the problem that it isn’t a face to face interaction that is vital when it comes to the user to express themselves. For these reasons I choose not to work on this ISP with you.
+    </p>
+
+    <h2 class="ConsideredName">George-Winters:B.O.L.T.</h2>
+    <p class="ExplinationConsidered">
+      Bolt can be used in creative ways that could catapult the advancements that computer science could take with these new interactions from people around the world. Though on of the first things i found to be a problem would be the language barrier, how would you allow for those who speak different languages, speak to each other. Another problem that could occur is it turns into a website that is bickering back and forth which might create a more divided world rather than being more interactive with each other.
+    </p>
+
+    <h2 class="ConsideredName">Ibrahim-Deir:Cool Math Games 2.0</h2>
+    <p class="ExplinationConsidered">
+      Cool Math Games 2.0 would be a good idea since coolmath games has become more obsolete as the years have passed by. In addition has not put as many new games as it once did because of how little users there are compared to years ago. However how do you create a website that is free to all and is “school appropriate” so the website isn’t blocked? I would love to see this idea to become reality as I continue my education in college. Though I choose not to work on this ISP because I see too many problems to be faced in order to make this idea come to fruition.
+    </p>
+
+    <h2 class="ConsideredName" style="color=green">Devin-Wingfield:Coding Duo Lingo</h2>
+    <p class="ExplinationConsidered">
+      I believe that this app could become successful because duo lingo has shown that apps like these can be very successful. In addition, computer science is becoming a very demanded field so people will want to begin learning python, java, or C++ as examples. Also since it is an app on the phone it is convient for people to do on the bus or train as they have free time. For these reasons I have chosen to accept this ISP and work on it for it till the end of the year.
+    </p>
+  </body>
+</html>
+<!--
+  how to make an image
+  <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+  wget (source) - download into directory
+
+  <p style="color:red"> - changes color of print
+
+  <h1 style="font-size:60px;">Heading 1</h1> - changes font size
+
+  style="background-color;" - changes backgound color
+
+  style="font-fmily:(font);" - changes the font
+
+  style="font-size:#%;" - changes font size
+
+  style="text-align:center;" - changes position
+
+  <b></b> - bold
+
+  <i></i> - italics
+
+  <small></small> - shrinkens the text
+
+  <mark></mark> - highlights
+
+  <del></del> - shlashes through
+
+  <ins></ins> - underlines
+
+  <sub></sub> - subscript
+  <sup></sup> - superscript
+
+  <blockquote cite="(cite)">
+    quote
+  </blockqoute>
+
+  <q></q> - quotations
+
+  <abbr title="(title)">(abbriviation)</abbr>
+
+  <bdo dir="rtl"></bdo> - puts text backwords
+
+  https://www.w3schools.com/colors/colors_names.asp - color names
+
+  <link rel="mainsheet" href="main.css">
+  -->
