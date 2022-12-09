@@ -1,9 +1,11 @@
-func f() {
-    g()
+func count(int:Int) {
+    if int > 0 {
+        print("UP: \(int)")
+        count(int-1)
+        print("DOWN: \(int)")
+    } else {
+        print(int)
+    }
 }
 
-func g() {
-    print("Hello, World!")
-}
-
-f()
+count(50)
